@@ -1,2 +1,2 @@
 # latihan-branch
-File ini berasal dari development
+ini adalah branch main
